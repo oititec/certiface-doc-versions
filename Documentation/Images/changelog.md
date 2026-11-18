@@ -1,5 +1,5 @@
 <p align="center">
- <img src="Documentation/Images/CertifaceHeader.png"/>
+ <img src="Images/CertifaceHeader.png"/>
 </p>
 
 # Changelog

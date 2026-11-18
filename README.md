@@ -21,7 +21,7 @@ Um exemplo de implementação pode ser encontrado no projeto Certiface-Sdk-Demo 
 
 ### Changelog
 
-- Acompanhe as novidades das versões do Certiface-Doc-Sdk pelo [Devcenter](https://devcenter.certiface.io/docs/guia-detalhado-de-uso#-changelogs-e-vers%C3%B5es) ou clicando [aqui](https://github.com/oititec/certiface-doc-versions/blob/main/CHANGELOG.md).
+- Acompanhe as novidades das versões do Certiface-Doc-Sdk pelo [Devcenter](https://devcenter.certiface.io/docs/guia-detalhado-de-uso#-changelogs-e-vers%C3%B5es) ou clicando [aqui](https://github.com/oititec/certiface-doc-versions/blob/main/documentation/changelog.md).
 
 ---
 ### Saiba mais
