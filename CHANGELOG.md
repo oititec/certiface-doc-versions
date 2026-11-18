@@ -1,5 +1,5 @@
 <p align="center">
- <img src="images/OitiHeader.png"/>
+ <img src="Documentation/images/OitiHeader.png"/>
 </p>
 
 # Changelog
