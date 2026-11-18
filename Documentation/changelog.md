@@ -6,7 +6,7 @@
 
 ### [Versão 1.1.0](https://github.com/oititec/certiface-doc-versions/releases/tag/1.1.0)
 
-# 18/11/2026
+Data: 18/11/2026
 
 ## Added
 
